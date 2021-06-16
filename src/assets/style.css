@@ -23,7 +23,7 @@ ul,li{
 
 a {
   text-decoration: none;
-  color: #47cf73;
+  color: #5A6C94;
   font-weight: 600;
   cursor: pointer; }
 
@@ -224,7 +224,7 @@ header .card-space {
 }
 
 .button.green{
-    background: #47cf73;
+    background: #5A6C94;
     color: #fff;
 }
 
