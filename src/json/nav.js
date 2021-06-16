@@ -1,0 +1,1 @@
+export default {"data": [{"name" : "示例", "id": "more-examples"}, {"name": "下载", "id": "download"}, {"name": "使用", "id": "usage"}, {"name": "选项配置", "id" : "configuration" },/* {"name": "API方法"},*/ {"name": "Browser Support", "id" : "browser-support"},]}
